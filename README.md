@@ -1,2 +1,2 @@
 # Blink
-Blink is a decentralized website bookmarker built with Blockstacks.
+Blink is a decentralised website bookmarker built with Blockstacks.
